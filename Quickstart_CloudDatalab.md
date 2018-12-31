@@ -1,21 +1,21 @@
 ## Quickstart Cloud Datalab
 
-- Get the latest gcloud command:
+1. Get the latest gcloud command:
 ```
 gcloud components update
 ```
-- Install the gcloud datalab component:
+2. Install the gcloud datalab component:
 ```
 gcloud components install datalab
 ```
-- Enable the **Google Compute Engine** and **Cloud Source Repositories API** to create a Datalab.
+3. Enable the **Google Compute Engine** and **Cloud Source Repositories API** to create a Datalab.
 
-- Create a Cloud Datalab instance:
+4. Create a Cloud Datalab instance:
 ```
 datalab create datalab-instance-name --zone us-central1-a
 ```
 
-- Open the Cloud Datalab home page in your browser:
+5. Open the Cloud Datalab home page in your browser:
 ```
 http://localhost:8081
 ```
