@@ -8,6 +8,7 @@ gcloud components update
 ```
 gcloud components install datalab
 ```
+- Enable the **Google Compute Engine** and **Cloud Source Repositories API** to create a Datalab.
 
 - Create a Cloud Datalab instance:
 ```
